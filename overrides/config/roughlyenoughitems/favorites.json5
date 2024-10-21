@@ -1,5 +1,12 @@
 {
-	"favorites": [],
+	"favorites": [
+		"{data:{Count:1b,id:\"sophisticatedbackpacks:backpack\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"sophisticatedbackpacks:iron_backpack\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"sophisticatedbackpacks:gold_backpack\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:cobblestone_wall\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"create:windmill_bearing\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"create:mechanical_saw\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
 	"hiddenFavorites": [],
 	"displays": []
 }
